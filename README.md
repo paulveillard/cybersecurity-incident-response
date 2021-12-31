@@ -5,7 +5,8 @@ Welcome to the world of Incident Response in Cybersecurity.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 ## Incident Response Introduction
-How to effectively detect, respond to and resolve cyber incidents
+As cyber-attacks continue to grow in volume, diversity, and sophistication, in addition to being more disruptive and damaging, organizations must be prepared to handle them effectively.
+- Cyber incident response (IR) is complicated by two factors. Firstly, no two incidents are ever the same. Secondly, all responses require people, process and technical elements to work together in order to be successful.
 
 ## Table of Contents
 
