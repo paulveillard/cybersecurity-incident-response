@@ -1,12 +1,12 @@
-# Incident Response & Incident Management
+# Cybersecurity Incident Management
 
-Welcome to the world of Incident Response in Cybersecurity.
+Welcome to the world of Incident Management in Cybersecurity.
 > A collection of awesome tools, software, libraries, learning tutorials & videos, frameworks, best practices and technical resources about Incident Response in Cybersecurity.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 ## Incident Response Introduction
 As cyber-attacks continue to grow in volume, diversity, and sophistication, in addition to being more disruptive and damaging, organizations must be prepared to handle them effectively.
-- Cyber incident response (IR) is complicated by two factors. Firstly, no two incidents are ever the same. Secondly, all responses require people, process and technical elements to work together in order to be successful.
+
 
 ## Table of Contents
 
