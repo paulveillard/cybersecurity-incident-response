@@ -9,6 +9,8 @@ As cyber-attacks continue to grow in volume, diversity, and sophistication, in a
 
 ![Scope of Cyber Security Incident Management](https://github.com/paulveillard/cybersecurity-incident-response/blob/main/img/1.png)
 
+The cyber security incident handling capability needs to be established over the people, process, and technology layers. The technology layer enables the skilled staff to detect and respond to cyber security incidents via the pre-defined incident management process.
+
 
 
 **[`^        back to top        ^`](#)**
