@@ -22,6 +22,8 @@ The cyber security incident handling capability needs to be established over the
 
 According to the Computer Security Incident Handling Guide (that is referenced as NIST Special Publication 800-61), the main stages of the lifecycle are:
 
+[Incident Lifecycle](https://github.com/paulveillard/cybersecurity-incident-response/blob/main/img/3.png)
+
 * Preparation
 * Detection & Analysis
 * Containment & Eradication & Recovery
