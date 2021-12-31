@@ -32,6 +32,8 @@ Welcome to the world of Incident Response in Cybersecurity.
 - [Videos](#videos)
 - [Windows Evidence Collection](#windows-evidence-collection)
 
+**[`^        back to top        ^`](#)**
+
 ## IR Tools Collection
 
 ### Adversary Emulation
@@ -46,6 +48,8 @@ Welcome to the world of Incident Response in Cybersecurity.
 * [Network Flight Simulator](https://github.com/alphasoc/flightsim) - Lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility.
 * [Red Team Automation (RTA)](https://github.com/endgameinc/RTA) - RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT&CK.
 * [RedHunt-OS](https://github.com/redhuntlabs/RedHunt-OS) - Virtual machine for adversary emulation and threat hunting.
+
+**[`^        back to top        ^`](#)**
 
 ### All-In-One Tools
 
@@ -71,6 +75,8 @@ Welcome to the world of Incident Response in Cybersecurity.
 * [X-Ways Forensics](http://www.x-ways.net/forensics/) - Forensics tool for Disk cloning and imaging. It can be used to find deleted files and disk analysis.
 * [Zentral](https://github.com/zentralopensource/zentral) - Combines osquery's powerful endpoint inventory features with a flexible notification and action framework. This enables one to identify and react to changes on OS X and Linux clients.
 
+**[`^        back to top        ^`](#)**
+
 ### Books
 
 * [Applied Incident Response](https://www.amazon.com/Applied-Incident-Response-Steve-Anson/dp/1119560268/) - Steve Anson's book on Incident Response.
@@ -80,12 +86,16 @@ Welcome to the world of Incident Response in Cybersecurity.
 * [Operator Handbook: Red Team + OSINT + Blue Team Reference](https://www.amazon.com/Operator-Handbook-Team-OSINT-Reference/dp/B085RR67H5/) - Great reference for incident responders.
 * [The Practice of Network Security Monitoring: Understanding Incident Detection and Response](http://www.amazon.com/gp/product/1593275099) - Richard Bejtlich's book on IR.
 
+**[`^        back to top        ^`](#)**
+
 ### Communities
 
 * [augmentd](http://augmentd.co/) - Community driven site providing a list of searches that can be implemented in and executed with a variety of common security tools.
 * [Digital Forensics Discord Server](https://discordapp.com/invite/JUqe9Ek) - Community of 8,000+ working professionals from Law Enforcement, Private Sector, and Forensic Vendors. Additionally, plenty of students and hobbyists! Guide [here](https://aboutdfir.com/a-beginners-guide-to-the-digital-forensics-discord-server/). 
 * [SANS DFIR mailing list](https://lists.sans.org/mailman/listinfo/dfir) - Mailing list by SANS for DFIR.
 * [Slack DFIR channel](https://dfircommunity.slack.com) - Slack DFIR Communitiy channel - [Signup here](https://start.paloaltonetworks.com/join-our-slack-community).
+
+**[`^        back to top        ^`](#)**
 
 ### Disk Image Creation Tools
 
@@ -94,6 +104,8 @@ Welcome to the world of Incident Response in Cybersecurity.
 * [GetData Forensic Imager](http://www.forensicimager.com/) - Windows based program that will acquire, convert, or verify a forensic image in one of the following common forensic file formats.
 * [Guymager](http://guymager.sourceforge.net) - Free forensic imager for media acquisition on Linux.
 * [Magnet ACQUIRE](https://www.magnetforensics.com/magnet-acquire/) - ACQUIRE by Magnet Forensics allows various types of disk acquisitions to be performed on Windows, Linux, and OS X as well as mobile operating systems.
+
+**[`^        back to top        ^`](#)**
 
 ### Evidence Collection
 
@@ -106,6 +118,8 @@ Welcome to the world of Incident Response in Cybersecurity.
 * [Live Response Collection](https://www.brimorlabs.com/tools/) - Automated tool that collects volatile data from Windows, OSX, and \*nix based operating systems.
 * [Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) - Command line utility (that works with or without Amazon EC2 instances) to parallelize remote memory acquisition.
 * [UAC](https://github.com/tclahr/uac) - UAC (Unix-like Artifacts Collector) is a Live Response collection tool for Incident Response that makes use of built-in tools to automate the collection of Unix-like systems artifacts. Supported systems: AIX, FreeBSD, Linux, macOS, NetBSD, Netscaler, OpenBSD and Solaris.
+
+**[`^        back to top        ^`](#)**
 
 ### Incident Management
 
@@ -121,11 +135,15 @@ Welcome to the world of Incident Response in Cybersecurity.
 * [Shuffle](https://github.com/frikky/Shuffle) - A general purpose security automation platform focused on accessibility.
 * [threat_note](https://github.com/defpoint/threat_note) - Lightweight investigation notebook that allows security researchers the ability to register and retrieve indicators related to their research.
 
+**[`^        back to top        ^`](#)**
+
 ### Knowledge Bases
 
 * [Digital Forensics Artifact Knowledge Base](https://github.com/ForensicArtifacts/artifacts-kb) - Digital Forensics Artifact Knowledge Base
 * [Windows Events Attack Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Windows Events Attack Samples
 * [Windows Registry Knowledge Base](https://github.com/libyal/winreg-kb) - Windows Registry Knowledge Base
+
+**[`^        back to top        ^`](#)**
 
 ### Linux Distributions
 
@@ -138,9 +156,13 @@ Welcome to the world of Incident Response in Cybersecurity.
 * [Security Onion](https://github.com/Security-Onion-Solutions/security-onion) - Special Linux distro aimed at network security monitoring featuring advanced analysis tools.
 * [SANS Investigative Forensic Toolkit (SIFT) Workstation](http://digital-forensics.sans.org/community/downloads) - Demonstrates that advanced incident response capabilities and deep dive digital forensic techniques to intrusions can be accomplished using cutting-edge open-source tools that are freely available and frequently updated.
 
+**[`^        back to top        ^`](#)**
+
 ### Linux Evidence Collection
 
 * [FastIR Collector Linux](https://github.com/SekoiaLab/Fastir_Collector_Linux) - FastIR for Linux collects different artifacts on live Linux and records the results in CSV files.
+
+**[`^        back to top        ^`](#)**
 
 ### Log Analysis Tools
 
@@ -157,6 +179,9 @@ Welcome to the world of Incident Response in Cybersecurity.
 * [StreamAlert](https://github.com/airbnb/streamalert) - Serverless, real-time log data analysis framework, capable of ingesting custom data sources and triggering alerts using user-defined logic.
 * [SysmonSearch](https://github.com/JPCERTCC/SysmonSearch) - SysmonSearch makes Windows event log analysis more effective and less time consuming by aggregation of event logs.
 * [Zircolite](https://github.com/wagga40/Zircolite) - A standalone and fast SIGMA-based detection tool for EVTX or JSON.
+
+
+**[`^        back to top        ^`](#)**
 
 ### Memory Analysis Tools
 
@@ -176,12 +201,16 @@ Welcome to the world of Incident Response in Cybersecurity.
 * [VolDiff](https://github.com/aim4r/VolDiff) - Malware Memory Footprint Analysis based on Volatility.
 * [WindowsSCOPE](http://www.windowsscope.com/windowsscope-cyber-forensics/) - Memory forensics and reverse engineering tool used for analyzing volatile memory offering the capability of analyzing the Windows kernel, drivers, DLLs, and virtual and physical memory.
 
+**[`^        back to top        ^`](#)**
+
 ### Memory Imaging Tools
 
 * [Belkasoft Live RAM Capturer](http://belkasoft.com/ram-capturer) - Tiny free forensic tool to reliably extract the entire content of the computer’s volatile memory – even if protected by an active anti-debugging or anti-dumping system.
 * [Linux Memory Grabber](https://github.com/halpomeranz/lmg/) - Script for dumping Linux memory and creating Volatility profiles.
 * [Magnet RAM Capture](https://www.magnetforensics.com/free-tool-magnet-ram-capture/) - Free imaging tool designed to capture the physical memory of a suspect’s computer. Supports recent versions of Windows.
 * [OSForensics](http://www.osforensics.com/) - Tool to acquire live memory on 32-bit and 64-bit systems. A dump of an individual process’s memory space or physical memory dump can be done.
+
+**[`^        back to top        ^`](#)**
 
 ### OSX Evidence Collection
 
@@ -191,6 +220,9 @@ Welcome to the world of Incident Response in Cybersecurity.
 * [OSX Collector](https://github.com/yelp/osxcollector) - OSX Auditor offshoot for live response.
 * [The ESF Playground](https://themittenmac.com/the-esf-playground/) - A tool to view the events in Apple Endpoint Security Framework (ESF) in real time.
 
+
+**[`^        back to top        ^`](#)**
+
 ### Other Lists
 
 * [Awesome Event IDs](https://github.com/stuhli/awesome-event-ids) - Collection of Event ID resources useful for Digital Forensics and Incident Response.
@@ -198,6 +230,8 @@ Welcome to the world of Incident Response in Cybersecurity.
 * [Didier Stevens Suite](https://github.com/DidierStevens/DidierStevensSuite) - Tool collection
 * [Eric Zimmerman Tools](https://ericzimmerman.github.io/) - An updated list of forensic tools created by Eric Zimmerman, an instructor for SANS institute.
 * [List of various Security APIs](https://github.com/deralexxx/security-apis) - Collective list of public JSON APIs for use in security.
+
+**[`^        back to top        ^`](#)**
 
 ### Other Tools
 
@@ -238,6 +272,8 @@ Welcome to the world of Incident Response in Cybersecurity.
 * [Phantom Community Playbooks](https://github.com/phantomcyber/playbooks) - Phantom Community Playbooks for Splunk but also customizable for other use.
 * [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - Playbook to aid the development of techniques and hypothesis for hunting campaigns.
 
+**[`^        back to top        ^`](#)**
+
 ### Process Dump Tools
 
 * [Microsoft ProcDump](https://docs.microsoft.com/en-us/sysinternals/downloads/procdump) - Dumps any running Win32 processes memory image on the fly.
@@ -268,6 +304,8 @@ Welcome to the world of Incident Response in Cybersecurity.
 * [Visualize_Logs](https://github.com/keithjjones/visualize_logs) - Open source visualization library and command line tools for logs (Cuckoo, Procmon, more to come).
 * [Yomi](https://yomi.yoroi.company) - Free MultiSandbox managed and hosted by Yoroi.
 
+**[`^        back to top        ^`](#)**
+
 ### Scanner Tools
 
 * [Fenrir](https://github.com/Neo23x0/Fenrir) - Simple IOC scanner. It allows scanning any Linux/Unix/OSX system for IOCs in plain bash. Created by the creators of THOR and LOKI.
@@ -281,6 +319,8 @@ Welcome to the world of Incident Response in Cybersecurity.
 * [Morgue](https://github.com/etsy/morgue) - PHP Web app by Etsy for managing postmortems.
 * [Plaso](https://github.com/log2timeline/plaso) -  a Python-based backend engine for the tool log2timeline.
 * [Timesketch](https://github.com/google/timesketch) - Open source tool for collaborative forensic timeline analysis.
+
+**[`^        back to top        ^`](#)**
 
 ### Videos
 
