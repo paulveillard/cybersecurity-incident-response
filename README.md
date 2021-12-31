@@ -20,7 +20,7 @@ The cyber security incident handling capability needs to be established over the
 #### C - Incident Lifecycle
 
 
-According to the [Computer Security](https://socwise.eu/less-than-one-month-until-google-chrome-marks-http-sites-not-secure/) Incident Handling Guide (that is referenced as NIST Special Publication 800-61), the main stages of the lifecycle are:
+According to the Computer Security Incident Handling Guide (that is referenced as NIST Special Publication 800-61), [the](https://socwise.eu/less-than-one-month-until-google-chrome-marks-http-sites-not-secure/)) main stages of the lifecycle are:
 
 ![Incident Lifecycle](https://github.com/paulveillard/cybersecurity-incident-response/blob/main/img/3.png)
 
