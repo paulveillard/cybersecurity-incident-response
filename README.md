@@ -4,12 +4,17 @@ Welcome to the world of Incident Management in Cybersecurity.
 > A collection of awesome tools, software, libraries, learning tutorials & videos, frameworks, best practices and technical resources about Incident Response in Cybersecurity.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
-## Incident Response Introduction
+## Incident Management Introduction
 As cyber-attacks continue to grow in volume, diversity, and sophistication, in addition to being more disruptive and damaging, organizations must be prepared to handle them effectively.
 
+![Scope of Cyber Security Incident Management](https://github.com/paulveillard/cybersecurity-incident-response/blob/main/img/1.png)
+
+
+
+**[`^        back to top        ^`](#)**
 
 ## Table of Contents
-
+- [Incident Management Introduction](#introduction-management-introduction)
 - [Adversary Emulation](#adversary-emulation)
 - [All-In-One Tools](#all-in-one-tools)
 - [Books](#books)
