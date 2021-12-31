@@ -29,6 +29,11 @@ According to the Computer Security Incident Handling Guide (that is referenced a
 * Containment & Eradication & Recovery
 * Post-Incident Activity
 
+#### D - Incident Detection and Response Chain
+
+![Incident Detection and Response Chain](https://github.com/paulveillard/cybersecurity-incident-response/blob/main/img/4.png)
+
+
 **[`^        back to top        ^`](#)**
 
 ## Table of Contents
