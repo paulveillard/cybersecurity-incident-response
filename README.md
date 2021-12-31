@@ -7,9 +7,14 @@ Welcome to the world of Incident Management in Cybersecurity.
 ## Incident Management Introduction
 As cyber-attacks continue to grow in volume, diversity, and sophistication, in addition to being more disruptive and damaging, organizations must be prepared to handle them effectively.
 
+#### Scope of Cyber Security Incident Management
 ![Scope of Cyber Security Incident Management](https://github.com/paulveillard/cybersecurity-incident-response/blob/main/img/1.png)
 
 The cyber security incident handling capability needs to be established over the people, process, and technology layers. The technology layer enables the skilled staff to detect and respond to cyber security incidents via the pre-defined incident management process.
+
+#### Layers of Detection & Response
+
+![Layers of Detection & Response](https://github.com/paulveillard/cybersecurity-incident-response/blob/main/img/2.png)
 
 
 
