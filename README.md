@@ -1,7 +1,7 @@
 # Cybersecurity Incident Management
 
 Welcome to the world of Incident Management in Cybersecurity.
-> A collection of awesome tools, software, libraries, learning tutorials & videos, frameworks, best practices and technical resources about Incident Response in Cybersecurity.
+> A collection of awesome tools, software, libraries, learning tutorials & videos, frameworks, best practices and technical resources about Incident Response & Management in Cybersecurity.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 ## Incident Management Introduction
