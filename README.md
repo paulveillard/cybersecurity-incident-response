@@ -4,20 +4,20 @@ Welcome to the world of Incident Management in Cybersecurity.
 > A collection of awesome tools, software, libraries, learning tutorials & videos, frameworks, best practices and technical resources about Incident Response & Management in Cybersecurity.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
-## Incident Management Introduction
+## `Incident Management Introduction`
 As cyber-attacks continue to grow in volume, diversity, and sophistication, in addition to being more disruptive and damaging, organizations must be prepared to handle them effectively.
 
-#### A - Scope of Cyber Security Incident Management
+#### `A - Scope of Cyber Security Incident Management`
 ![Scope of Cyber Security Incident Management](https://github.com/paulveillard/cybersecurity-incident-response/blob/main/img/1.png)
 
 The cyber security incident handling capability needs to be established over the people, process, and technology layers. The technology layer enables the skilled staff to detect and respond to cyber security incidents via the pre-defined incident management process.
 
-#### B - Layers of Detection & Response
+#### `B - Layers of Detection & Response`
 
 ![Layers of Detection & Response](https://github.com/paulveillard/cybersecurity-incident-response/blob/main/img/2.png)
 
 
-#### C - Incident Lifecycle
+#### `C - Incident Lifecycle`
 
 
 According to the Computer Security Incident Handling Guide (that is referenced as NIST Special Publication 800-61), [the](https://socwise.eu/less-than-one-month-until-google-chrome-marks-http-sites-not-secure/) main stages of the lifecycle are:
@@ -36,7 +36,7 @@ According to the Computer Security Incident Handling Guide (that is referenced a
 
 **[`^        back to top        ^`](#)**
 
-## Table of Contents
+## `Table of Contents`
 - [Incident Management Introduction](#introduction-management-introduction)
 - [Adversary Emulation](#adversary-emulation)
 - [All-In-One Tools](#all-in-one-tools)
@@ -64,7 +64,7 @@ According to the Computer Security Incident Handling Guide (that is referenced a
 
 **[`^        back to top        ^`](#)**
 
-## IR Tools Collection
+## `IR Tools Collection`
 
 ### Adversary Emulation
 
